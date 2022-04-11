@@ -1,3 +1,5 @@
 *.nc
 *.tar*
-/ECMWF_operational
+*.grib*
+*.idx*
+
